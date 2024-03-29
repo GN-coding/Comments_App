@@ -1,0 +1,79 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.item-card {
+  margin: 1rem;
+  border-bottom: 1px solid gray;
+}
+
+.logo-style {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+}
+.item-name {
+  font-size: 18px;
+  color: #334155;
+}
+.item-time {
+  color: #94a3b8;
+  font-size: 14px;
+  font-weight: 500;
+}
+.con-1 {
+  display: flex;
+  gap: 1rem;
+}
+.com-dis {
+  margin-left: 4rem;
+  color: #7e858e;
+}
+.like-con {
+  display: flex;
+  gap: 1rem;
+  cursor: pointer;
+}
+.foot-con {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+.del-img {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+.apply {
+  color: #0b69ff;
+}
